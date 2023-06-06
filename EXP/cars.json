@@ -1,0 +1,148 @@
+{
+    "cars": [
+      {
+        "make": "Toyota",
+        "model": "Camry",
+        "year": 2021,
+        "color": "Silver",
+        "availability": true,
+        "price": "$100",
+        "mileage": "20,000",
+        "fueltype": "Petrol",
+        "seats": " 5",
+        "picture": "Camry 2021.jpg",
+        "description": "Sedan"
+      },
+      {
+        "make": "Honda",
+        "model": "Civic",
+        "year": 2022,
+        "color": "White",
+        "availability": false,
+        "price": "$100",
+        "mileage": "28,000",
+        "fueltype": "Petrol",
+        "seats": " 5",
+        "picture": "civic2022.jpg",
+        "description": "Sedan"
+      },
+      {
+        "make": "Subaru",
+        "model": "Forester",
+        "year": 2020,
+        "color": "Blue",
+        "availability": true,
+        "price": "$120",
+        "mileage": "20,000",
+        "fueltype": "Petrol",
+        "seats": " 5",
+        "picture": "forester.jpg",
+        "description": "SUV"
+      },
+      {
+        "make": "Mercedes",
+        "model": "C300",
+        "year": 2023,
+        "color": "Black",
+        "availability": false,
+        "price": "$200",
+        "mileage": "19,000",
+        "fueltype": "Petrol",
+        "seats": " 5",
+        "picture": "c300.jpg",
+        "description": "Sedan"
+      },
+      {
+        "make": "Mercedes",
+        "model": "ML350",
+        "year": 2020,
+        "color": "White",
+        "availability": false,
+        "price": "$220",
+        "mileage": "20,000",
+        "fueltype": "Diesel",
+        "seats": " 5",
+        "picture": "ml350.jpg",
+        "description": "SUV"
+      },
+      {
+        "make": "Suzuki",
+        "model": "Swift",
+        "year": 2020,
+        "color": "Blue",
+        "availability": true,
+        "price": "$90",
+        "mileage": "20,000",
+        "fueltype": "Petrol",
+        "seats": " 5",
+        "picture": "swift.jpg",
+        "description": "Hatchback"
+      },
+      {
+        "make": "KIA",
+        "model": "Sportage",
+        "year": 2020,
+        "color": "Grey",
+        "availability": true,
+        "price": "$150",
+        "mileage": "10,000",
+        "fueltype": "Petrol",
+        "seats": " 5",
+        "picture": "kia.jpg",
+        "description": "SUV"
+      },
+      {
+      "make": "BMW",
+        "model": "Mini Cooper",
+        "year": 2020,
+        "color": "Grey",
+        "availability": true,
+        "price": "$170",
+        "mileage": "40,000",
+        "fueltype": "Petrol",
+        "seats": " 4",
+        "picture": "mini cooper.jpg",
+        "description": "Hatchback"
+      },
+      {
+        "make": "KIA",
+        "model": "Sportage",
+        "year": 2020,
+        "color": "Grey",
+        "availability": true,
+        "price": "$150",
+        "mileage": "50,000",
+        "fueltype": "Diesel",
+        "seats": " 5",
+        "picture": "kia.jpg",
+        "description": "SUV"
+      },
+      {
+        "make": "Suzuki",
+        "model": "Grand Vitara",
+        "year": 2022,
+        "color": "Black",
+        "availability": true,
+        "price": "$180",
+        "mileage": "28,000",
+        "fueltype": "Petrol",
+        "seats": " 5",
+        "picture": "kia.jpg",
+        "description": "SUV"
+      },
+      {
+        "make": "Mazda",
+        "model": "Mazda 2",
+        "year": 2020,
+        "color": "Silver",
+        "availability": true,
+        "price": "$140",
+        "mileage": "29,000",
+        "fueltype": "Petrol",
+        "seats": " 5",
+        "picture": "mazda2.jpg",
+        "description": "Hatchback"
+      }
+    ]
+  }
+  
